@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.voxcom.expensetracker"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.voxcom.expensetracker"
         minSdk = 25
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
