@@ -5,7 +5,6 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_marginHorizontal="45dp"
-    android:background="@drawable/cornerroundbgwhite"
     android:elevation="10dp">
 
     <LinearLayout
